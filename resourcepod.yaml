@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: batch9
-  namespace: development
+  namespace: production
 spec:
   containerS:
    - name: cont
